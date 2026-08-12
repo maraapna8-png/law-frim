@@ -1,0 +1,6 @@
+{
+  "name": "Abdullah Law Firm",
+  "description": "Professional Lawyer Appointment Website for Advocate Abdullah in D.I. Khan, Pakistan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

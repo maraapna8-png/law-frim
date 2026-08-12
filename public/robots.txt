@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://loquacious-nasturtium-8b2f27.netlify.app/sitemap.xml
